@@ -2,7 +2,7 @@
   "id": "./",
   "name": "DIO App",
   "short_name": "DIO",
-  "description": "Responsive Material UI app shell",
+  "description": "Digital Interaction Organizer (DIO) is a web application that helps users manage and organize their digital interactions, goals, and contacts efficiently.",
   "start_url": "./",
   "scope": "./",
   "lang": "en",
